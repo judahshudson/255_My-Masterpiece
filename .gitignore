@@ -1,0 +1,7 @@
+.DS_Store
+secrets.txt
+
+#comment
+
+# 	*.txt	wild card	all files in .txt will be in gitignore, not uploaded to commit
+
