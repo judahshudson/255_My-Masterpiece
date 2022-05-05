@@ -1,0 +1,51 @@
+
+
+
+***255 REMOTE VERSION CONTROL ***
+create new repository on github
+…or push an existing repository from the command line
+git remote add origin copyPasteGithubRepositoryLink.git (eg: https://github.com/judahshudson/255_My-Masterpiece.git)
+git push -u origin main		[pushes local repository to github repository]
+i.e.,
+git push -u [name of remote] [branch]
+
+
+
+
+
+
+
+
+
+*** 254 LOCAL Version Control ***
+https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12386660#overview
+
+
+WORKING DIRECTORY
+create, cd into project folder
+git init			creates git repository
+
+
+STAGING AREA
+git add myFile.txt		add files to staging area
+git add .
+
+git status			show staged files
+
+
+LOCAL REPOSITORY
+git commit -m "message"		commit to repository
+
+git log				show committed files
+
+
+GO BACK TO PREVIOUS VERSIONS
+git diff			show differences
+git checkout fileName.txt	roll back to previous commit
+
+
+
+
+
+
+
